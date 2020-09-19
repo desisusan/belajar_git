@@ -1,3 +1,0 @@
-this is secone file
-
-mengubah isi file seconde_file.txt
